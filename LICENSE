@@ -160,9 +160,9 @@
       Work (including but not limited to damages for loss of goodwill,
       work stoppage, computer failure or malfunction, or any and all
       other commercial damages or losses), even if such Contributor
-      telah diberitahu tentang kemungkinan kerusakan tersebut.
+      has been advised of the possibility of such damages.
 
-   9. Menerima Jaminan atau Kewajiban Tambahan. Saat mendistribusikan ulang
+   9. Accepting Warranty or Additional Liability. While redistributing
       the Work or Derivative Works thereof, You may choose to offer,
       and charge a fee for, acceptance of support, warranty, indemnity,
       or other liability obligations and/or rights consistent with this
@@ -175,9 +175,9 @@
 
    END OF TERMS AND CONDITIONS
 
-   LAMPIRAN: Cara menerapkan Lisensi Apache pada pekerjaan Anda.
+   APPENDIX: How to apply the Apache License to your work.
 
-      Untuk menerapkan Lisensi Apache ke pekerjaan Anda, lampirkan yang berikut ini
+      To apply the Apache License to your work, attach the following
       boilerplate notice, with the fields enclosed by brackets "[]"
       replaced with your own identifying information. (Don't include
       the brackets!)  The text should be enclosed in the appropriate
@@ -185,9 +185,9 @@
       file or class name and description of purpose be included on the
       same "printed page" as the copyright notice for easier
       identifikasi dalam arsip pihak ketiga.
-kami
+
    Hak Cipta 2021 Rico Ferdian
-kami
+
    Dilisensikan di bawah Lisensi Apache, Versi 2.0 ("Lisensi");
    you may not use this file except in compliance with the License.
    You may obtain a copy of the License at
